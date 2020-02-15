@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-windows",
+  "1.14.4": {
+    "1.0.0": "First Release" 
+  },
+  "promos": {
+    "1.14.4-latest": "1.0.0",
+    "1.14.4-recommended": "1.0.0"
+  }
+}
