@@ -1,0 +1,41 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-bridges",
+  "1.14.4": {
+    "1.0.4": "Added Rail and Bamboo Bridges, Added waterlogging", 
+    "1.0.3": "Added Stone Bridges, Fixed guardrails, RP support", 
+    "1.0.2": "Added Rope Bridges, Bridge properties", 
+    "1.0.1": "Added Wood Bridges, Bugfixes and Improvements", 
+    "1.0.0": "Added Iron Bridge" 
+  },
+   "1.15.1": {
+    "1.0.4": "Added Rail and Bamboo Bridges, Added waterlogging", 
+    "1.0.3": "Added Stone Bridges, Fixed guardrails, RP support", 
+    "1.0.2": "Added Rope Bridges, Bridge properties", 
+    "1.0.1": "Added Wood Bridges, Bugfixes and Improvements", 
+    "1.0.0": "Added Iron Bridge" 
+  },
+   "1.15.2": {
+    "1.0.4": "Added Rail and Bamboo Bridges, Added waterlogging", 
+    "1.0.3": "Added Stone Bridges, Fixed guardrails, RP support", 
+    "1.0.2": "Added Rope Bridges, Bridge properties", 
+    "1.0.1": "Added Wood Bridges, Bugfixes and Improvements", 
+    "1.0.0": "Added Iron Bridge" 
+  },
+   "1.12.2": {
+    "1.0.4": "Added Rail and Bamboo Bridges, Added waterlogging", 
+    "1.0.3": "Added Stone Bridges, Fixed guardrails, RP support", 
+    "1.0.2": "Added Rope Bridges, Bridge properties", 
+    "1.0.1": "Added Wood Bridges, Bugfixes and Improvements", 
+    "1.0.0": "Added Iron Bridge" 
+  },
+  "promos": {
+    "1.14.4-latest": "1.0.4",
+    "1.14.4-recommended": "1.0.4"
+    "1.15.2-latest": "1.0.4",
+    "1.15.2-recommended": "1.0.4"
+    "1.15.1-latest": "1.0.4",
+    "1.15.1-recommended": "1.0.4"
+    "1.12.2-latest": "1.0.4",
+    "1.12.2-recommended": "1.0.4"
+  }
+}
