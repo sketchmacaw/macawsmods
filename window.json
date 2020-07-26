@@ -24,14 +24,14 @@
   },
   "promos": {
     "1.16.1-latest": "1.0.2",
-    "1.15.2-latest": "1.0.1",
-    "1.15.1-latest": "1.0.1",
-    "1.14.4-latest": "1.0.1",
+    "1.15.2-latest": "1.0.2",
+    "1.15.1-latest": "1.0.2",
+    "1.14.4-latest": "1.0.2",
     "1.12.2-latest": "1.0.1",
     "1.16.1-recommended": "1.0.2",
-    "1.15.2-recommended": "1.0.1",
-    "1.15.1-recommended": "1.0.1",
-    "1.14.4-recommended": "1.0.1",
+    "1.15.2-recommended": "1.0.2",
+    "1.15.1-recommended": "1.0.2",
+    "1.14.4-recommended": "1.0.2",
     "1.12.2-recommended": "1.0.1"
   }
 }
