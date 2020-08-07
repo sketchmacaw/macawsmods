@@ -1,0 +1,25 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors",
+  "1.14.4": {
+    "1.0.0": "First Release, added over 50 new trapdoors"
+  },
+   "1.15.1": {
+    "1.0.0": "First Release, added over 50 new trapdoors"
+  },
+   "1.16.1": {
+    "1.0.0": "First Release, added over 50 new trapdoors"
+  },
+   "1.15.2": {
+    "1.0.0": "First Release, added over 50 new trapdoors"
+  },
+  "promos": {
+    "1.15.2-latest": "1.0.0",
+    "1.15.1-latest": "1.0.0",
+    "1.14.4-latest": "1.0.0"
+    "1.16.1-latest": "1.0.0",
+    "1.16.1-recommended": "1.0.0",
+    "1.15.2-recommended": "1.0.0",
+    "1.15.1-recommended": "1.0.0",
+    "1.14.4-recommended": "1.0.0"
+  }
+}
