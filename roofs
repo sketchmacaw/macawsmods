@@ -21,12 +21,17 @@
    "1.16.1": {
     "2.0.0": "First Release" 
   },
+   "1.16.2": {
+    "2.0.0": "First Release" 
+  },
   "promos": {
+    "1.16.2-latest": "2.0.0",
     "1.16.1-latest": "2.0.0",
     "1.15.2-latest": "2.0.0",
     "1.15.1-latest": "2.0.0",
     "1.14.4-latest": "2.0.0",
     "1.12.2-latest": "1.0.3",
+    "1.16.2-recommended": "2.0.0",
     "1.16.1-recommended": "2.0.0",
     "1.15.2-recommended": "2.0.0",
     "1.15.1-recommended": "2.0.0",
