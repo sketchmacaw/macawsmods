@@ -1,5 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-furniture",
+  "1.16.4": {
+    "2.0.0": "Code rewrite, storage, warped and crimson..."
+  },
   "1.14.4": {
     "1.0.1": "Added wood variations, bugfixes and a lot more!", 
     "1.0.0": "Official Release" 
@@ -17,10 +20,12 @@
     "1.0.0": "Official Release" 
   },
   "promos": {
+    "1.16.4-latest": "2.0.0",
     "1.15.2-latest": "1.0.1",
     "1.15.1-latest": "1.0.1",
     "1.14.4-latest": "1.0.1",
     "1.12.2-latest": "1.0.1",
+    "1.16.4-recommended": "2.0.0",
     "1.15.2-recommended": "1.0.1",
     "1.15.1-recommended": "1.0.1",
     "1.14.4-recommended": "1.0.1",
