@@ -17,13 +17,13 @@
     "1.0.1": "Animal update, 5 new paintings!"
   },
   "promos": {
-    "1.16.5-latest": "1.0.0",
-    "1.16.4-latest": "1.0.0",
-    "1.15.2-latest": "1.0.0",
-    "1.14.4-latest": "1.0.0",
-    "1.16.5-recommended": "1.0.0",
-    "1.16.4-recommended": "1.0.0",
-    "1.15.2-recommended": "1.0.0",
-    "1.14.4-recommended": "1.0.0"
+    "1.16.5-latest": "1.0.1",
+    "1.16.4-latest": "1.0.1",
+    "1.15.2-latest": "1.0.1",
+    "1.14.4-latest": "1.0.1",
+    "1.16.5-recommended": "1.0.1",
+    "1.16.4-recommended": "1.0.1",
+    "1.15.2-recommended": "1.0.1",
+    "1.14.4-recommended": "1.0.1"
   }
 }
