@@ -45,17 +45,17 @@
     "1.0.0": "Added Iron Bridge" 
   },
   "promos": {
-    "1.15.2-latest": "1.0.5",
-    "1.15.1-latest": "1.0.4",
-    "1.14.4-latest": "1.0.5",
-    "1.12.2-latest": "1.0.4",
-    "1.16.4-latest": "1.0.5",
-    "1.16.5-latest": "1.0.5",
-    "1.16.4-recommended": "1.0.5",
-    "1.16.5-recommended": "1.0.5",
-    "1.15.2-recommended": "1.0.4",
-    "1.15.1-recommended": "1.0.4",
-    "1.14.4-recommended": "1.0.4",
-    "1.12.2-recommended": "1.0.4"
+    "1.15.2-latest": "1.0.6",
+    "1.15.1-latest": "1.0.6",
+    "1.14.4-latest": "1.0.6",
+    "1.12.2-latest": "1.0.6",
+    "1.16.4-latest": "1.0.6",
+    "1.16.5-latest": "1.0.6",
+    "1.16.4-recommended": "1.0.6",
+    "1.16.5-recommended": "1.0.6",
+    "1.15.2-recommended": "1.0.6",
+    "1.15.1-recommended": "1.0.6",
+    "1.14.4-recommended": "1.0.6",
+    "1.12.2-recommended": "1.0.6"
   }
 }
