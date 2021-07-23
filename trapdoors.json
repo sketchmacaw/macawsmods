@@ -14,7 +14,7 @@
     "1.0.1": "Bug fixes, improvements.. ",
     "1.0.0": "First Release, added over 50 new trapdoors"
   },
-   "1.16.4": {
+   "1.17.1": {
     "1.0.2": "Rp supported trapdoors, metal trapdoors, translations",
     "1.0.1": "Bug fixes, improvements.. ",
     "1.0.0": "First Release, added over 50 new trapdoors"
@@ -31,10 +31,10 @@
     "1.15.2-latest": "1.0.2",
     "1.15.1-latest": "1.0.2",
     "1.14.4-latest": "1.0.2",
-    "1.16.4-latest": "1.0.2",
+    "1.17.1-latest": "1.0.2",
     "1.16.5-latest": "1.0.2",
     "1.12.2-latest": "1.0.2",
-    "1.16.4-recommended": "1.0.2",
+    "1.17.1-recommended": "1.0.2",
     "1.16.5-recommended": "1.0.2",
     "1.15.2-recommended": "1.0.2",
     "1.15.1-recommended": "1.0.2",
