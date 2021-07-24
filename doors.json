@@ -17,6 +17,12 @@
     "1.0.0": "First Release, added over 60 new doors",
     "1.0.1": "New doors, fixed bugs!"
   },
+   "1.17.1": {
+    "1.0.3": "Garage Doors and a lot more!",
+    "1.0.2": "Bug fixes, improvements.. ",
+    "1.0.0": "First Release, added over 60 new doors",
+    "1.0.1": "New doors, fixed bugs!"
+  },
    "1.16.5": {
     "1.0.3": "Garage Doors and a lot more!",
     "1.0.2": "Bug fixes, improvements.. ",
@@ -24,6 +30,12 @@
     "1.0.1": "New doors, fixed bugs!"
   },
    "1.15.2": {
+    "1.0.3": "Garage Doors and a lot more!",
+    "1.0.2": "Bug fixes, improvements.. ",
+    "1.0.0": "First Release, added over 60 new doors",
+    "1.0.1": "New doors, fixed bugs!"
+  },
+  "1.17.1": {
     "1.0.3": "Garage Doors and a lot more!",
     "1.0.2": "Bug fixes, improvements.. ",
     "1.0.0": "First Release, added over 60 new doors",
@@ -40,6 +52,8 @@
     "1.12.2-latest": "1.0.3",
     "1.16.4-latest": "1.0.3",
     "1.16.4-recommended": "1.0.3",
+    "1.17.1-recommended": "1.0.3",
+    "1.17.1-latest": "1.0.3",
     "1.16.5-latest": "1.0.3",
     "1.16.2-recommended": "1.0.3",
     "1.15.2-recommended": "1.0.3",
