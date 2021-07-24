@@ -14,6 +14,11 @@
     "1.0.6": "Added Mossy Bridge, Dry Bamboo Bridge, Improvements, Fixed Issues.. ",   
     "1.0.4": "First release for 1.16.1, added Warped,Crimson and Blackstone bridges."
   },
+   "1.17.1": {
+    "1.0.5": "Bug fixes, improvements.. ",
+    "1.0.6": "Added Mossy Bridge, Dry Bamboo Bridge, Improvements, Fixed Issues.. ",   
+    "1.0.4": "First release for 1.16.1, added Warped,Crimson and Blackstone bridges."
+  },
      "1.16.5": {
     "1.0.6": "Added Mossy Bridge, Dry Bamboo Bridge, Improvements, Fixed Issues.. ",
     "1.0.5": "Bug fixes, improvements.. ",
@@ -51,6 +56,8 @@
     "1.12.2-latest": "1.0.6",
     "1.16.4-latest": "1.0.6",
     "1.16.5-latest": "1.0.6",
+    "1.17.1-recommended": "1.0.6",
+    "1.17.1-latest": "1.0.6",
     "1.16.4-recommended": "1.0.6",
     "1.16.5-recommended": "1.0.6",
     "1.15.2-recommended": "1.0.6",
