@@ -18,6 +18,9 @@
    "1.16.4": {
     "1.0.3": "Blinds, Arrow Slits and more!" 
   },
+   "1.18": {
+    "2.0.1": "Ported to 1.18" 
+  },
    "1.16.5": {
     "1.0.3": "Blinds, Arrow Slits and more!",
     "2.0.0": "New Placing System, Mosaic Glass, Sounds and improvements" 
@@ -31,6 +34,8 @@
     "1.0.1": "Added stone windows, bar windows, hammer, parapets, fixed a lot of stuff!"
   },
   "promos": {
+    "1.18-recommended": "2.0.1",
+    "1.18-latest": "2.0.1",
     "1.16.4-latest": "2.0.0",
     "1.16.5-latest": "2.0.0",
     "1.15.2-latest": "1.0.2",
