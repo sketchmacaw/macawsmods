@@ -27,6 +27,9 @@
     "1.0.3": "Improved textures by 16N1C0, added translations",
     "1.0.2": "Initial Release"
   },
+  "1.18": {
+    "1.0.3": "Ported to 1.18" 
+  },
    "1.15.2": {
     "1.0.3": "Improved textures by 16N1C0, added translations",
     "1.0.2": "Rp supported trapdoors, metal trapdoors, translations",
@@ -34,6 +37,8 @@
     "1.0.0": "First Release, added over 50 new trapdoors"
   },
   "promos": {
+    "1.18-recommended": "1.0.3",
+    "1.18-latest": "1.0.3",
     "1.15.2-latest": "1.0.3",
     "1.15.1-latest": "1.0.3",
     "1.14.4-latest": "1.0.3",
