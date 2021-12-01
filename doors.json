@@ -36,11 +36,16 @@
     "1.0.0": "First Release, added over 60 new doors",
     "1.0.1": "New doors, fixed bugs!"
   },
+  "1.18": {
+    "1.0.4": "Ported to 1.18" 
+  },
    "1.12.2": {
     "1.0.3": "Bark Door, Western, Stable and a lot more!",
     "1.0.0": "First Release, added over 60 new doors"
   },
   "promos": {
+    "1.18-recommended": "1.0.4",
+    "1.18-latest": "1.0.4",
     "1.15.2-latest": "1.0.3",
     "1.15.1-latest": "1.0.3",
     "1.14.4-latest": "1.0.3",
