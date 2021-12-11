@@ -15,8 +15,8 @@
     "1.0.0": "Added first 20 custom made paintings", 
     "1.0.1": "Animal update, 5 new paintings!"
   },
-  "1.18": {
-    "1.0.2": "Ported to 1.18" 
+  "1.18.1": {
+    "1.0.2": "Ported to 1.18.1" 
   },
    "1.15.2": {
     "1.0.2": "New Paintings and Improvements", 
@@ -24,8 +24,8 @@
     "1.0.1": "Animal update, 5 new paintings!"
   },
   "promos": {
-    "1.18-recommended": "1.0.2",
-    "1.18-latest": "1.0.2",
+    "1.18.1-recommended": "1.0.2",
+    "1.18.1-latest": "1.0.2",
     "1.17.1-latest": "1.0.2",
     "1.16.5-latest": "1.0.2",
     "1.15.2-latest": "1.0.2",
