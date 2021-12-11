@@ -24,8 +24,8 @@
     "2.0.0": "Massive Update",
     "1.0.0": "Added Iron Bridge" 
   },
-  "1.18": {
-    "2.0.0": "Ported to 1.18" 
+  "1.18.1": {
+    "2.0.1": "Ported to 1.18" 
   },
    "1.15.2": {
     "1.0.6": "Added Mossy Bridge, Dry Bamboo Bridge, Improvements, Fixed Issues.. ",
@@ -45,8 +45,8 @@
     "1.0.0": "Added Iron Bridge" 
   },
   "promos": {
-    "1.18-recommended": "2.0.0",
-    "1.18-latest": "2.0.0",
+    "1.18.1-recommended": "2.0.1",
+    "1.18.1-latest": "2.0.1",
     "1.15.2-latest": "1.0.6",
     "1.15.1-latest": "1.0.6",
     "1.14.4-latest": "1.0.6",
