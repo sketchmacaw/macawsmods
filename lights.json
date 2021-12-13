@@ -1,18 +1,5 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps",
-   "1.17.1": {
-    "1.0.1": "Fixed multiplayer crash when trying to turn off/on lights, Holding shift is no longer needed to toggle lights", 
-    "1.0.0": "First release of Macaws Lights, added a lot of functioning lights and lamps." 
-  },
-   "1.16.4": {
-    "1.0.0": "First release of Macaws Lights, added a lot of functioning lights and lamps." 
-  },
-  "1.18.1": {
-    "1.0.2": "Ported to 1.18.1" 
-  },
-   "1.16.5": {
-    "1.0.0": "First release of Macaws Lights, added a lot of functioning lights and lamps." 
-  },
   "promos": {
     "1.18.1-recommended": "1.0.2",
     "1.18.1-latest": "1.0.2",
