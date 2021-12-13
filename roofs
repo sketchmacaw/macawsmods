@@ -1,37 +1,5 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-roofs",
-  "1.14.4": {
-    "2.0.1": "Bug fixes, improvements.. ",
-    "2.0.0": "New roofs, stonecutter recipes, bug fixes, improvements..", 
-    "1.0.2": "Added Awnings, Attic Windows, And a lot more!", 
-    "1.0.1": "Added rain gutters, wooden roofs", 
-    "1.0.0": "First Release" 
-  },
-   "1.15.1": {
-    "2.0.0": "New roofs, stonecutter recipes, bug fixes, improvements..", 
-    "1.0.2": "Added Awnings, Attic Windows, And a lot more!", 
-    "1.0.1": "Added rain gutters, wooden roofs", 
-    "1.0.0": "First Release" 
-  },
-   "1.15.2": {
-    "2.0.1": "Bug fixes, improvements.. ",
-    "2.0.0": "New roofs, stonecutter recipes, bug fixes, improvements..", 
-    "1.0.2": "Added Awnings, Attic Windows, And a lot more!", 
-    "1.0.1": "Added rain gutters, wooden roofs", 
-    "1.0.0": "First Release" 
-  },
-   "1.16.4": {
-    "2.0.1": "Warped and Crimson roofs, Bug fixes, improvements.. ",
-    "2.0.0": "First Release" 
-  },
-   "1.16.5": {
-    "2.0.1": "Warped and Crimson roofs, Bug fixes, improvements.. ",
-    "2.0.0": "First Release" 
-  },
-   "1.17.1": {
-    "2.0.1": "Warped and Crimson roofs, Bug fixes, improvements.. ",
-    "2.0.0": "First Release" 
-  },
   "promos": {
     "1.16.4-latest": "2.0.1",
     "1.16.5-latest": "2.0.1",
