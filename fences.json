@@ -1,28 +1,5 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls",
-  "1.14.4": {
-    "1.0.0": "First Release"
-  },
-   "1.15.1": {
-    "1.0.0": "First Release"
-  },
-   "1.16.4": {
-    "1.0.0": "First Release"
-  },
-   "1.17.1": {
-    "1.0.1": "Fixed recipe overlapping",
-    "1.0.0": "First Release"
-  },
-  "1.18.1": {
-    "1.0.2": "Ported to 1.18.1" 
-  },
-   "1.16.5": {
-    "1.0.1": "Fixed recipe overlapping",
-    "1.0.0": "First Release"
-  },
-   "1.15.2": {
-    "1.0.0": "First Release"
-  },
   "promos": {
     "1.18.1-recommended": "1.0.2",
     "1.18.1-latest": "1.0.2",
