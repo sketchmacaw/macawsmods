@@ -1,41 +1,5 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors",
-  "1.14.4": {
-    "1.0.3": "Improved textures by 16N1C0, added translations",
-    "1.0.2": "Rp supported trapdoors, metal trapdoors, translations",
-    "1.0.1": "Bug fixes, improvements.. ",
-    "1.0.0": "First Release, added over 50 new trapdoors"
-  },
-   "1.15.1": {
-    "1.0.3": "Improved textures by 16N1C0, added translations",
-    "1.0.2": "Rp supported trapdoors, metal trapdoors, translations",
-    "1.0.0": "First Release, added over 50 new trapdoors"
-  },
-   "1.16.5": {
-    "1.0.3": "Improved textures by 16N1C0, added translations",
-    "1.0.2": "Rp supported trapdoors, metal trapdoors, translations",
-    "1.0.1": "Bug fixes, improvements.. ",
-    "1.0.0": "First Release, added over 50 new trapdoors"
-  },
-   "1.17.1": {
-    "1.0.3": "Improved textures by 16N1C0, added translations",
-    "1.0.2": "Rp supported trapdoors, metal trapdoors, translations",
-    "1.0.1": "Bug fixes, improvements.. ",
-    "1.0.0": "First Release, added over 50 new trapdoors"
-  },
-   "1.12.2": {
-    "1.0.3": "Improved textures by 16N1C0, added translations",
-    "1.0.2": "Initial Release"
-  },
-  "1.18.1": {
-    "1.0.4": "Ported to 1.18.1" 
-  },
-   "1.15.2": {
-    "1.0.3": "Improved textures by 16N1C0, added translations",
-    "1.0.2": "Rp supported trapdoors, metal trapdoors, translations",
-    "1.0.1": "Bug fixes, improvements.. ",
-    "1.0.0": "First Release, added over 50 new trapdoors"
-  },
   "promos": {
     "1.18.1-recommended": "1.0.4",
     "1.18.1-latest": "1.0.4",
