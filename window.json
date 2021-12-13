@@ -1,38 +1,5 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-furniture",
-  "1.14.4": {
-    "1.0.0": "First Release", 
-    "1.0.1": "Added stone windows, bar windows, hammer, parapets, fixed a lot of stuff!",
-    "1.0.2": "Added stripped log variations, fixed bugs!" 
-  },
-   "1.15.1": {
-    "1.0.0": "First Release", 
-    "1.0.1": "Added stone windows, bar windows, hammer, parapets, fixed a lot of stuff!",
-    "1.0.2": "Added stripped log variations, fixed bugs!" 
-  },
-   "1.15.2": {
-    "1.0.0": "First Release", 
-    "1.0.1": "Added stone windows, bar windows, hammer, parapets, fixed a lot of stuff!", 
-    "1.0.2": "Added stripped log variations, fixed bugs!" 
-  },
-   "1.16.4": {
-    "1.0.3": "Blinds, Arrow Slits and more!" 
-  },
-   "1.18.1": {
-    "2.0.2": "Ported to 1.18.1" 
-  },
-   "1.16.5": {
-    "1.0.3": "Blinds, Arrow Slits and more!",
-    "2.0.0": "New Placing System, Mosaic Glass, Sounds and improvements" 
-  },
-   "1.17.1": {
-    "2.0.1": "Fixed multiplayer crash when trying to destroy Mosaic Blocks",
-    "2.0.0": "New Placing System, Mosaic Glass, Sounds and improvements"
-  },
-   "1.12.2": {
-    "1.0.0": "First Release", 
-    "1.0.1": "Added stone windows, bar windows, hammer, parapets, fixed a lot of stuff!"
-  },
   "promos": {
     "1.18.1-recommended": "2.0.2",
     "1.18.1-latest": "2.0.2",
