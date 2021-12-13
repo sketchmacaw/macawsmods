@@ -1,48 +1,5 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors",
-  "1.14.4": {
-    "1.0.3": "Garage Doors and a lot more!",
-    "1.0.2": "Bug fixes, improvements.. ",
-    "1.0.0": "First Release, added over 60 new doors",
-    "1.0.1": "New doors, fixed bugs!"
-  },
-   "1.15.1": {
-    "1.0.3": "Garage Doors and a lot more!",
-    "1.0.0": "First Release, added over 60 new doors",
-    "1.0.1": "New doors, fixed bugs!"
-  },
-   "1.16.4": {
-    "1.0.3": "Garage Doors and a lot more!",
-    "1.0.2": "Bug fixes, improvements.. ",
-    "1.0.0": "First Release, added over 60 new doors",
-    "1.0.1": "New doors, fixed bugs!"
-  },
-   "1.17.1": {
-    "1.0.4": "Fixed multiplayer crash when trying to open/close Shoji, Stable, Garage Doors!",
-    "1.0.3": "Garage Doors and a lot more!",
-    "1.0.2": "Bug fixes, improvements.. ",
-    "1.0.0": "First Release, added over 60 new doors",
-    "1.0.1": "New doors, fixed bugs!"
-  },
-   "1.16.5": {
-    "1.0.3": "Garage Doors and a lot more!",
-    "1.0.2": "Bug fixes, improvements.. ",
-    "1.0.0": "First Release, added over 60 new doors",
-    "1.0.1": "New doors, fixed bugs!"
-  },
-   "1.15.2": {
-    "1.0.3": "Garage Doors and a lot more!",
-    "1.0.2": "Bug fixes, improvements.. ",
-    "1.0.0": "First Release, added over 60 new doors",
-    "1.0.1": "New doors, fixed bugs!"
-  },
-  "1.18.1": {
-    "1.0.5": "Ported to 1.18.1" 
-  },
-   "1.12.2": {
-    "1.0.3": "Bark Door, Western, Stable and a lot more!",
-    "1.0.0": "First Release, added over 60 new doors"
-  },
   "promos": {
     "1.18.1-recommended": "1.0.5",
     "1.18.1-latest": "1.0.5",
