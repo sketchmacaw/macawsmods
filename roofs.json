@@ -1,5 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-roofs",
+   "1.18.1": {
+    "2.2.1": "Huge optimization, recommended to use this version", 
+  },
   "promos": {
     "1.19.2-latest": "2.2.0",
     "1.19.2-recommended": "2.2.0",
