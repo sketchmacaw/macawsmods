@@ -4,6 +4,10 @@
   "2.2.1": "Huge optimization, recommended to use this version"
   },
   "promos": {
+    "1.19.4-recommended": "2.2.3",
+    "1.19.4-latest": "2.2.3",
+    "1.19.3-recommended": "2.2.3",
+    "1.19.3-latest": "2.2.3",
     "1.19.2-latest": "2.2.3",
     "1.19.2-recommended": "2.2.3",
     "1.19.1-latest": "2.2.3",
