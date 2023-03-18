@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors",
   "promos": {
+    "1.19.4-recommended": "1.0.8",
+    "1.19.4-latest": "1.0.8",
     "1.19.3-recommended": "1.0.8",
     "1.19.3-latest": "1.0.8",
     "1.19.2-recommended": "1.0.8",
