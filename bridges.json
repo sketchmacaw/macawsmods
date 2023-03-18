@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-bridges",
   "promos": {
+    "1.19.4-recommended": "2.0.6",
+    "1.19.4-latest": "2.0.6",
     "1.19.3-recommended": "2.0.6",
     "1.19.3-latest": "2.0.6",
     "1.19.2-recommended": "2.0.6",
