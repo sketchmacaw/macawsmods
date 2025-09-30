@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-windows",
   "promos": {
+    "1.21.9-recommended": "2.4.1",
+    "1.21.9-latest": "2.4.1",
     "1.21.8-recommended": "2.4.1",
     "1.21.8-latest": "2.4.1",
     "1.21.7-recommended": "2.4.1",
