@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls",
   "promos": {
+    "1.21.10-recommended": "1.2.0",
+    "1.21.10-latest": "1.2.0",
     "1.21.9-recommended": "1.2.0",
     "1.21.9-latest": "1.2.0",
     "1.21.8-recommended": "1.2.0",
